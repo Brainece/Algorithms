@@ -53,5 +53,5 @@ if __name__ == "__main__":
     mergeSort(arr1)
     mergeSort(arr2)
 
-    print("array 1: ", mergearr1)
+    print("array 1: ", arr1)
     print("array 2: ", arr2)
